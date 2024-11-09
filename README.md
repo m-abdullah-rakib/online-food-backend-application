@@ -1,10 +1,17 @@
-# tacobe
+# Online Food Delivery App
 
 This serves as the back end of my complete project "Taco Store" (https://dynamic-project.github.io/tacofe/home). The fornt end is based on Angular 
 ("https://github.com/dynamic-project/tacofe") where I also used Angular Material.
 
 This is a Spring Boot project. In building RESTful services I've followed imperative programming pattern and it's also possible in the reactive way. I've used Spring Data JPA, 
 part of the larger Spring Data family, makes it easy to easily implement JPA based repositories.
+
+Features:
+
+  * User management
+  * Designed food menus
+  * Implemented order processing
+  * Managed cart functionalities
 
 # IMPORTANT: Lombok
 
